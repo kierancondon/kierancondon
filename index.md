@@ -1,10 +1,1 @@
-<html>
-  <title>
-    First website
-  </title>
-  
-  <body>
-    <h1>This is my first github page</h1>
-  </body>
-  
-</html>
+#This is my first github page
