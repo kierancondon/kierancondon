@@ -5,4 +5,5 @@ A nowhere near complete Github website
 Helpful guides:
 <ul>
   <li>https://24ways.org/2013/get-started-with-github-pages/</li>
+  <li>https://heiswayi.github.io/the-plain/</li>
 </ul>
