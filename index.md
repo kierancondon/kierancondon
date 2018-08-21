@@ -1,34 +1,18 @@
-# A collection of things
+## Data Science Techniques
 
-[Testing testing](http://kierancondon.github.io/test.md)
+- ### Jupyter notebooks
 
-[Testing testing](http://kierancondon.github.io)
+	- Pricing Options using Monte Carlo and Black Scholes in Python. [Launch notebook](http://nbviewer.ipython.org/github/kierancondon/Sandbox/blob/master/Option%20Valuation%20and%20Hedging%20in%20Python.ipynb)
 
-## Jupyer Notebooks
+	- Demonstration of logistic regression. [Launch notebook](http://nbviewer.ipython.org/github/kierancondon/Sandbox/blob/master/Logistic%20Regression.ipynb)
 
-### Option Simulation in Python
-#### Pricing Options using Monte Carlo vs. Black Scholes
-I show a number of ways to model and price options using python in[this *iPython notebook*](http://nbviewer.ipython.org/github/kierancondon/Sandbox/blob/master/Option%20Valuation%20and%20Hedging%20in%20Python.ipynb)
+- ### Resources
 
-- Simulation of Lognormal forward prices
-- Option pricing using Monte Carlo simulation
-- The Black Scholes equation
-- A comparison of option hedging strategies
-
-### How logistic regression works
-I took some time to think about **logistic regression** which is useful for answering questions where the answer can be one of two possibilities, such as yes or no questions. Find the full demonstration [here](http://nbviewer.ipython.org/github/kierancondon/Sandbox/blob/master/Logistic%20Regression.ipynb)
-
-## Resources
-
-- [9 Essential Skills for Your First Data Analyst Job](http://blog.udacity.com/2014/12/9-essential-skills-data-analyst-job.html)
-
+	- [9 Essential Skills for Your First Data Analyst Job](http://blog.udacity.com/2014/12/9-essential-skills-data-analyst-job.html)
 
 ## Other projects
 
-### Masters Thesis
-#### Incorporating Derivative Order Flow in Foreign Exchange Microstructure Theory
-
-### Honours Thesis
-#### Incorporating Derivative Order Flow in Foreign Exchange Microstructure Theory
+- #Masters Thesis:# "Incorporating Derivative Order Flow in Foreign Exchange Microstructure Theory"
+- #Honours Thesis:# "The Effectiveness of Formal Credit Markets in Reaching the Poor of South Africa"
 
 
