@@ -3,7 +3,7 @@
 ### Heading
 #### Heading
 
-[Test](kierancondon.github.io/test.md)
+[Test](/test.md)
 
 ## Jupyer Notebooks
 
