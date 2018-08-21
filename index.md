@@ -3,8 +3,8 @@
 ### Heading
 #### Heading
 
-[Testing testing](https://http://kierancondon.github.io/test.md)
-[And this](https://http://kierancondon.github.io)
+[Testing testing](http://http://kierancondon.github.io/test.md)
+[And this](//http://kierancondon.github.io)
 
 ## Jupyer Notebooks
 
