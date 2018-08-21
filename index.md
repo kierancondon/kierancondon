@@ -11,19 +11,15 @@
 	
 	- Simpson's Paradox
 
-- ### Links
-
-	- [9 Essential Skills for Your First Data Analyst Job](http://blog.udacity.com/2014/12/9-essential-skills-data-analyst-job.html)
-
 ## Other Projects
 
-**On Education**
-**On Management**
-**Tools for Startups**
+	- **On Education**
+	- **On Management**
+	- **Tools for Startups**
 
-**Masters Thesis:** "Incorporating Derivative Order Flow in Foreign Exchange Microstructure Theory"
-**Honours Thesis:** "The Effectiveness of Formal Credit Markets in Reaching the Poor of South Africa"
-**Radio transmitter**
+	- **Masters Thesis:** "Incorporating Derivative Order Flow in Foreign Exchange Microstructure Theory"
+	- **Honours Thesis:** "The Effectiveness of Formal Credit Markets in Reaching the Poor of South Africa"
+	- **Radio transmitter**
 
 
 
