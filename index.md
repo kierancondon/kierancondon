@@ -1,4 +1,9 @@
-<h1>This is my first github page, say hi now</h1>
+# Heading
+## Heading
+### Heading
+#### Heading
+
+## Jupyer Notebooks
 
 - List one
 - List Two
