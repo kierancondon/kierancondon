@@ -1,18 +1,29 @@
 ## Data Science Techniques
 
-- ### Jupyter notebooks
+- ### Hands-on demonstrations
 
-	- Pricing Options using Monte Carlo and Black Scholes in Python. [Launch notebook](http://nbviewer.ipython.org/github/kierancondon/Sandbox/blob/master/Option%20Valuation%20and%20Hedging%20in%20Python.ipynb)
+	- How logistic regression works. [Launch notebook](http://nbviewer.ipython.org/github/kierancondon/Sandbox/blob/master/Logistic%20Regression.ipynb)
+	- How gradient descent works. [Launch notebook](http://nbviewer.ipython.org/github/kierancondon/Sandbox/blob/master/Gradient%20Descent%20in%20Action.ipynb)
+	- SQL-like joins in Pandas. [Launch notebook](http://nbviewer.ipython.org/github/kierancondon/Sandbox/blob/master/SQL%20Joins%20and%20Pandas%20Merges.ipynb)
+	- Pricing Options using Monte Carlo and Black Scholes. [Launch notebook](http://nbviewer.ipython.org/github/kierancondon/Sandbox/blob/master/Option%20Valuation%20and%20Hedging%20in%20Python.ipynb)
 
-	- Demonstration of logistic regression. [Launch notebook](http://nbviewer.ipython.org/github/kierancondon/Sandbox/blob/master/Logistic%20Regression.ipynb)
+- ### Insights
+	
+	- Simpson's Paradox
 
-- ### Resources
+- ### Links
 
 	- [9 Essential Skills for Your First Data Analyst Job](http://blog.udacity.com/2014/12/9-essential-skills-data-analyst-job.html)
 
-## Other projects
+## Other Projects
 
-- #Masters Thesis:# "Incorporating Derivative Order Flow in Foreign Exchange Microstructure Theory"
-- #Honours Thesis:# "The Effectiveness of Formal Credit Markets in Reaching the Poor of South Africa"
+**On Education**
+**On Management**
+**Tools for Startups**
+
+**Masters Thesis:** "Incorporating Derivative Order Flow in Foreign Exchange Microstructure Theory"
+**Honours Thesis:** "The Effectiveness of Formal Credit Markets in Reaching the Poor of South Africa"
+**Radio transmitter**
+
 
 
