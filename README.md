@@ -7,4 +7,5 @@ Helpful guides:
   <li>https://24ways.org/2013/get-started-with-github-pages/</li>
   <li>https://heiswayi.github.io/the-plain/</li>
   <li>http://try.github.io/</li>
+  <li>http://jmcglone.com/guides/github-pages/</li>
 </ul>
