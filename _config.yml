@@ -1,3 +1,1 @@
-name: Kieran Condon
-markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
+remote_theme: the_plain
