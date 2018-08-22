@@ -1,4 +1,4 @@
-Stackoverflow profile: [kieranpc](https://stackoverflow.com/users/3232824/kieranpc)
+Stack Overflow profile: [kieranpc](https://stackoverflow.com/users/3232824/kieranpc)
 
 ## Data Science Techniques
 
@@ -11,7 +11,7 @@ Stackoverflow profile: [kieranpc](https://stackoverflow.com/users/3232824/kieran
 
 - ### Insights
 	
-	- Simpson's Paradox: [link, unformatted](http://kierancondon.github.io/posts/simpsons_paradox.md)
+	- Simpson's Paradox: [link, unformatted](http://kierancondon.github.io/simpsons_paradox.md)
 
 ## Other Projects
 
