@@ -9,17 +9,16 @@
 
 - ### Insights
 	
-	- Simpson's Paradox
+	- Simpson's Paradox: link
 
 ## Other Projects
 
-- **On Education** (link)
-- **On Management** (link)
-- **Tools for Startups** (link)
-
-- **Masters Thesis:** "Incorporating Derivative Order Flow in Foreign Exchange Microstructure Theory" (link)
-- **Honours Thesis:** "The Effectiveness of Formal Credit Markets in Reaching the Poor of South Africa" (link)
-- **Radio transmitter** (link)
+- **On Education:** link
+- **On Management:** link
+- **Tools for Startups:** link
+- **Masters Thesis:** "Incorporating Derivative Order Flow in Foreign Exchange Microstructure Theory"
+- **Honours Thesis:** "The Effectiveness of Formal Credit Markets in Reaching the Poor of South Africa"
+- **Radio transmitter:** link
 
 
 
